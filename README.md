@@ -1,2 +1,2 @@
 # DOM-mini-project
-# html-css- javasript mini Dom project
+# using html-css- Javasript mini Dom project
